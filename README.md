@@ -1,6 +1,5 @@
 # Twitter-Sentiment-Analysis-with-Transformers
 
-# Twitter Sentiment Analysis with Transformers
 
 This project fine-tunes a **Transformers** model to perform sentiment analysis on tweets.
 We use **DistilBERT** as the base model for text classification into positive and negative categories.
